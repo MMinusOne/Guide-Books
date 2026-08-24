@@ -1,0 +1,1 @@
+These are guide books for highschoolers looking to improve in Mathematics and Computer Science, and reach maximum level.
