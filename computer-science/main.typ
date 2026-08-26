@@ -1,1 +1,1 @@
-#import "template.typ"
+#import "../template.typ"
